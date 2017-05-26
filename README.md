@@ -1,9 +1,5 @@
 # Phonetic Transcription Lessons
 
-- [LESSON ONE - 基础音标](#lesson-one)
-- [LESSON TWO - 如何发音](#lesson-two)
-- [LESSON THREE - 重点问题纠正](#lesson-three)
-
 ## callback
 
 ```javascript
